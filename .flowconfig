@@ -1,0 +1,15 @@
+[ignore]
+.*/node_modules/react-scripts/node_modules/@babel/core/node_modules/resolve/test/resolver/malformed_package_json/.*
+.*/node_modules/react-scripts/node_modules/eslint-plugin-react/node_modules/resolve/test/resolver/malformed_package_json/.*
+.*/node_modules/resolve/test/resolver/malformed_package_json/.*
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+exact_by_default=false
+
+[strict]
